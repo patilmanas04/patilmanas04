@@ -3,7 +3,6 @@
 
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476pvvicrob9xtlp67pu7yuat2759zxdf188mrb1ge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" alt="Coding">
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patil_manas_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-patil-876718250) 
 
