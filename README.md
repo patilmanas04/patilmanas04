@@ -3,6 +3,7 @@
 # 💫 About Me:
 🚀 Hey there! I'm Manas Patil, a passionate software engineering student at Uka Tarsadia University in Gujarat, India, crafting innovative solutions with a focus on MERN stack, web development, and JavaScript magic. 💻✨<br><br>📚 I've also explored Python, C, Java, and more, mastering algorithms and software engineering principles.<br><br>🤝 Collaboration fuels my creativity; let's team up for greatness! 💪<br><br>⏩ I'm diving into AI & ML, and mobile app development (Android & iOS), aiming for impactful solutions. 📱<br><br>🌈 Balancing work and play, I'm also into mobile and PC gaming, Badminton, and soccer. 🌲🎮<br><br>✨ Let's connect and create magic together! Reach out at pmanas13092004@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/manas-patil-876718250/) 💌<br><br>Excited to collaborate and game on! 😊🚀
 
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476pvvicrob9xtlp67pu7yuat2759zxdf188mrb1ge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" alt="Coding">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patil_manas_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-patil-876718250) 
