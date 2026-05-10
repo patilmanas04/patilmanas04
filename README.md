@@ -1,7 +1,7 @@
 # `~/workspace/manas-patil/MAIN`
 
 <details open>
-  <summary><b>🗂️ Explorer (Click to collapse)</b></summary>
+  <summary><b>🗂️ Explorer</b></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;📂 <b>src/</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;┣━━ 📄 <a href="#-profilepy">profile.py</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;┣━━ 📄 <a href="#-skillspy">skills.py</a><br>
@@ -31,38 +31,34 @@ class DeveloperProfile:
 
 ### 📄 `skills.py`
 ```python
-import torch
-import torch.nn as nn
-
-class ManasTechStack(nn.Module):
+class TechStack:
     def __init__(self):
-        super(ManasTechStack, self).__init__()
+        self.programming_languages = [
+            "Python", "JavaScript", "Java", "C++"
+        ]
         
-        # 1. Input Layer: Core Languages
-        self.languages = torch.tensor(["Python", "JavaScript", "Java", "C++"])
+        self.ai_and_machine_learning = [
+            "TensorFlow", "PyTorch", "scikit-learn", 
+            "XGBoost", "pandas", "NumPy", "RAG Pipelines"
+        ]
         
-        # 2. Hidden Layers: Deep Learning & AI Weights
-        self.ai_ml_models = nn.Sequential(
-            nn.Linear("TensorFlow", "PyTorch"),
-            nn.Linear("scikit-learn", "XGBoost"),
-            nn.Linear("pandas", "NumPy")
-        )
-        self.ai_tools = torch.tensor(["RAG Pipelines", "Gemini API", "LiveKit", "LangChain", "ChromaDB"])
+        self.ai_tools_and_infra = [
+            "Gemini API", "LiveKit", "LangChain", "ChromaDB"
+        ]
         
-        # 3. Hidden Layers: Infrastructure & Backend
-        self.backend = nn.Sequential(
-            nn.Linear("Node.js", "Express.js"),
-            nn.Linear("FastAPI", "TiDB"),
-            nn.Linear("MongoDB", "MySQL"),
-            nn.Dropout("Redis (RQ)") 
-        )
-        self.devops_tools = torch.tensor(["Git", "GitHub", "Postman", "Cloudinary", "Firebase"])
+        self.full_stack_development = [
+            "React.js", "Node.js", "Express.js", 
+            "FastAPI", "Tailwind CSS", "Material UI"
+        ]
         
-        # 4. Output Layer: Frontend Interface
-        self.frontend = torch.tensor(["React.js", "Tailwind CSS", "Material UI"])
+        self.databases_and_tools = [
+            "MongoDB", "MySQL", "TiDB", "Firebase", 
+            "Git", "GitHub", "Postman", "Cloudinary", "Redis (RQ)"
+        ]
 
-    def forward(self, input_data):
-        return "Scalable AI Systems & Full-Stack Architectures"
+if __name__ == "__main__":
+    manas_stack = TechStack()
+    print("Core modules loaded successfully.")
 ```
 
 ### 📄 `life_and_research.py`
