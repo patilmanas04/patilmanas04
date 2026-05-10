@@ -16,7 +16,8 @@
 ```python
 class DeveloperProfile:
     def __init__(self):
-        self.status = "Currently building AI from the math up (understanding and building AI from the ground up from scratch)."
+        self.full_name="Manas Sunil Patil"
+        self.status = "Currently building AI from the math up (understanding how they work and building AI from scratch)."
         self.location = "Bardoli, Gujarat, India"
         self.mission = "I don't just use APIs; I break systems, learn the math, and build deep tech from the ground up."
         
