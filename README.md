@@ -1,19 +1,112 @@
-![](Banner.png)
+# `~/workspace/manas-patil/MAIN`
 
-# 💫 About Me:
-🚀 Hey there! I'm Manas Patil, a passionate software engineering student at Uka Tarsadia University in Gujarat, India, crafting innovative solutions with a focus on MERN stack, web development, and JavaScript magic. 💻✨<br><br>📚 I've also explored Python, C, Java, and more, mastering algorithms and software engineering principles.<br><br>🤝 Collaboration fuels my creativity; let's team up for greatness! 💪<br><br>⏩ I'm diving into AI & ML, and mobile app development (Android & iOS), aiming for impactful solutions. 📱<br><br>🌈 Balancing work and play, I'm also into mobile and PC gaming, Badminton, and soccer. 🌲🎮<br><br>✨ Let's connect and create magic together! Reach out at pmanas13092004@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/manas-patil-876718250/) 💌<br><br>Excited to collaborate and game on! 😊🚀
+<details open>
+  <summary><b>🗂️ Explorer (Click to collapse)</b></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;📂 <b>src/</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;┣━━ 📄 <a href="#-profilepy">profile.py</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;┣━━ 📄 <a href="#-skillspy">skills.py</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;┗━━ 📄 <a href="#-life_and_researchpy">life_and_research.py</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;📂 <b>bin/</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;┗━━ 📟 <a href="#-terminal">telemetry.sh</a><br>
+</details>
 
-<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476pvvicrob9xtlp67pu7yuat2759zxdf188mrb1ge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" alt="Coding">
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patil_manas_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-patil-876718250) 
+### 📄 `profile.py`
+```python
+class DeveloperProfile:
+    def __init__(self):
+        self.status = "Currently building AI from the math up (understanding and building AI from the ground up from scratch)."
+        self.location = "Bardoli, Gujarat, India"
+        self.mission = "I don't just use APIs; I break systems, learn the math, and build deep tech from the ground up."
+        
+    def get_research_background(self):
+        return {
+            "role": "Small Researcher",
+            "publications": [
+                "Data-Driven Rockfall Assessment using Synthetic Training and CNN–XGBoost Integration"
+            ]
+        }
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patilmanas04&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=patilmanas04&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patilmanas04&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📄 `skills.py`
+```python
+import torch
+import torch.nn as nn
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+class ManasTechStack(nn.Module):
+    def __init__(self):
+        super(ManasTechStack, self).__init__()
+        
+        # 1. Input Layer: Core Languages
+        self.languages = torch.tensor(["Python", "JavaScript", "Java", "C++"])
+        
+        # 2. Hidden Layers: Deep Learning & AI Weights
+        self.ai_ml_models = nn.Sequential(
+            nn.Linear("TensorFlow", "PyTorch"),
+            nn.Linear("scikit-learn", "XGBoost"),
+            nn.Linear("pandas", "NumPy")
+        )
+        self.ai_tools = torch.tensor(["RAG Pipelines", "Gemini API", "LiveKit", "LangChain", "ChromaDB"])
+        
+        # 3. Hidden Layers: Infrastructure & Backend
+        self.backend = nn.Sequential(
+            nn.Linear("Node.js", "Express.js"),
+            nn.Linear("FastAPI", "TiDB"),
+            nn.Linear("MongoDB", "MySQL"),
+            nn.Dropout("Redis (RQ)") 
+        )
+        self.devops_tools = torch.tensor(["Git", "GitHub", "Postman", "Cloudinary", "Firebase"])
+        
+        # 4. Output Layer: Frontend Interface
+        self.frontend = torch.tensor(["React.js", "Tailwind CSS", "Material UI"])
+
+    def forward(self, input_data):
+        return "Scalable AI Systems & Full-Stack Architectures"
+```
+
+### 📄 `life_and_research.py`
+```python
+def get_technical_achievements():
+    return [
+        "Secured Rs 1,50,000 at UTU Idea Hunt for an ECG predictive model.",
+        "Presented Data-Driven Rockfall Assessment using CNN-XGBoost at the 7th MIND 2025 International Conference in Jaipur."
+    ]
+
+def get_hobbies():
+    return ["Travelling", "Listening to music", "Playing badminton"]
+
+if __name__ == "__main__":
+    achievements = get_technical_achievements()
+    hobbies = get_hobbies()
+    print("Executing life sequence... success.")
+```
+
+### 📟 `Terminal`
+```zsh
+❯ ./fetch_github_telemetry.sh
+Loading stats from GitHub API... [OK]
+```
+
+<p align="center">
+  <a href="https://github.com/patilmanas04">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilmanas04&hide_border=true&theme=onedark" alt="GitHub Streak" />
+  </a>
+</p>
+
+```zsh
+❯ ./initiate_contact.sh
+Porting transmission lines...
+```
+
+<p align="center">
+  <a href="https://linkedin.com/in/patilmanas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/patilmanas" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO" />
+  </a>
+  <a href="https://instagram.com/patilmanas04" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
